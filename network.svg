@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     version="1.2"
+     width="100mm" height="100mm" viewBox="0 0 100 100"
+     stroke="none"
+     fill="#000000"
+     stroke-width="0.3"
+     font-size="3.88"
+>
+<g fill="#FF6347" id="img-ab9d560c-1">
+  <use xlink:href="#img-ab9d560c-2" x="62.5" y="18.5"/>
+</g>
+<g fill="#FF6347" id="img-ab9d560c-3">
+  <use xlink:href="#img-ab9d560c-4" x="62.5" y="10.5"/>
+</g>
+<g fill="#FF6347" id="img-ab9d560c-5">
+  <use xlink:href="#img-ab9d560c-6" x="62.5" y="2.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-7">
+  <path fill="none" d="M47.5,34.5 L 60 18.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-8">
+  <path fill="none" d="M47.5,34.5 L 60 10.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-9">
+  <path fill="none" d="M47.5,34.5 L 60 2.5"/>
+</g>
+<g fill="#000000" id="img-ab9d560c-10">
+  <use xlink:href="#img-ab9d560c-11" x="47.5" y="34.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-12">
+  <path fill="none" d="M47.5,26.5 L 60 18.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-13">
+  <path fill="none" d="M47.5,26.5 L 60 10.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-14">
+  <path fill="none" d="M47.5,26.5 L 60 2.5"/>
+</g>
+<g fill="#000000" id="img-ab9d560c-15">
+  <use xlink:href="#img-ab9d560c-16" x="47.5" y="26.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-17">
+  <path fill="none" d="M47.5,18.5 L 60 18.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-18">
+  <path fill="none" d="M47.5,18.5 L 60 10.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-19">
+  <path fill="none" d="M47.5,18.5 L 60 2.5"/>
+</g>
+<g fill="#000000" id="img-ab9d560c-20">
+  <use xlink:href="#img-ab9d560c-21" x="47.5" y="18.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-22">
+  <path fill="none" d="M47.5,10.5 L 60 18.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-23">
+  <path fill="none" d="M47.5,10.5 L 60 10.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-24">
+  <path fill="none" d="M47.5,10.5 L 60 2.5"/>
+</g>
+<g fill="#000000" id="img-ab9d560c-25">
+  <use xlink:href="#img-ab9d560c-26" x="47.5" y="10.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-27">
+  <path fill="none" d="M47.5,2.5 L 60 18.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-28">
+  <path fill="none" d="M47.5,2.5 L 60 10.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-29">
+  <path fill="none" d="M47.5,2.5 L 60 2.5"/>
+</g>
+<g fill="#000000" id="img-ab9d560c-30">
+  <use xlink:href="#img-ab9d560c-31" x="47.5" y="2.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-32">
+  <path fill="none" d="M32.5,42.5 L 45 34.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-33">
+  <path fill="none" d="M32.5,42.5 L 45 26.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-34">
+  <path fill="none" d="M32.5,42.5 L 45 18.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-35">
+  <path fill="none" d="M32.5,42.5 L 45 10.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-36">
+  <path fill="none" d="M32.5,42.5 L 45 2.5"/>
+</g>
+<g fill="#000000" id="img-ab9d560c-37">
+  <use xlink:href="#img-ab9d560c-38" x="32.5" y="42.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-39">
+  <path fill="none" d="M32.5,34.5 L 45 34.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-40">
+  <path fill="none" d="M32.5,34.5 L 45 26.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-41">
+  <path fill="none" d="M32.5,34.5 L 45 18.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-42">
+  <path fill="none" d="M32.5,34.5 L 45 10.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-43">
+  <path fill="none" d="M32.5,34.5 L 45 2.5"/>
+</g>
+<g fill="#000000" id="img-ab9d560c-44">
+  <use xlink:href="#img-ab9d560c-45" x="32.5" y="34.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-46">
+  <path fill="none" d="M32.5,26.5 L 45 34.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-47">
+  <path fill="none" d="M32.5,26.5 L 45 26.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-48">
+  <path fill="none" d="M32.5,26.5 L 45 18.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-49">
+  <path fill="none" d="M32.5,26.5 L 45 10.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-50">
+  <path fill="none" d="M32.5,26.5 L 45 2.5"/>
+</g>
+<g fill="#000000" id="img-ab9d560c-51">
+  <use xlink:href="#img-ab9d560c-52" x="32.5" y="26.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-53">
+  <path fill="none" d="M32.5,18.5 L 45 34.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-54">
+  <path fill="none" d="M32.5,18.5 L 45 26.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-55">
+  <path fill="none" d="M32.5,18.5 L 45 18.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-56">
+  <path fill="none" d="M32.5,18.5 L 45 10.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-57">
+  <path fill="none" d="M32.5,18.5 L 45 2.5"/>
+</g>
+<g fill="#000000" id="img-ab9d560c-58">
+  <use xlink:href="#img-ab9d560c-59" x="32.5" y="18.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-60">
+  <path fill="none" d="M32.5,10.5 L 45 34.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-61">
+  <path fill="none" d="M32.5,10.5 L 45 26.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-62">
+  <path fill="none" d="M32.5,10.5 L 45 18.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-63">
+  <path fill="none" d="M32.5,10.5 L 45 10.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-64">
+  <path fill="none" d="M32.5,10.5 L 45 2.5"/>
+</g>
+<g fill="#000000" id="img-ab9d560c-65">
+  <use xlink:href="#img-ab9d560c-66" x="32.5" y="10.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-67">
+  <path fill="none" d="M32.5,2.5 L 45 34.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-68">
+  <path fill="none" d="M32.5,2.5 L 45 26.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-69">
+  <path fill="none" d="M32.5,2.5 L 45 18.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-70">
+  <path fill="none" d="M32.5,2.5 L 45 10.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-71">
+  <path fill="none" d="M32.5,2.5 L 45 2.5"/>
+</g>
+<g fill="#000000" id="img-ab9d560c-72">
+  <use xlink:href="#img-ab9d560c-73" x="32.5" y="2.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-74">
+  <path fill="none" d="M17.5,34.5 L 30 42.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-75">
+  <path fill="none" d="M17.5,34.5 L 30 34.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-76">
+  <path fill="none" d="M17.5,34.5 L 30 26.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-77">
+  <path fill="none" d="M17.5,34.5 L 30 18.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-78">
+  <path fill="none" d="M17.5,34.5 L 30 10.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-79">
+  <path fill="none" d="M17.5,34.5 L 30 2.5"/>
+</g>
+<g fill="#000000" id="img-ab9d560c-80">
+  <use xlink:href="#img-ab9d560c-81" x="17.5" y="34.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-82">
+  <path fill="none" d="M17.5,26.5 L 30 42.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-83">
+  <path fill="none" d="M17.5,26.5 L 30 34.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-84">
+  <path fill="none" d="M17.5,26.5 L 30 26.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-85">
+  <path fill="none" d="M17.5,26.5 L 30 18.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-86">
+  <path fill="none" d="M17.5,26.5 L 30 10.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-87">
+  <path fill="none" d="M17.5,26.5 L 30 2.5"/>
+</g>
+<g fill="#000000" id="img-ab9d560c-88">
+  <use xlink:href="#img-ab9d560c-89" x="17.5" y="26.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-90">
+  <path fill="none" d="M17.5,18.5 L 30 42.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-91">
+  <path fill="none" d="M17.5,18.5 L 30 34.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-92">
+  <path fill="none" d="M17.5,18.5 L 30 26.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-93">
+  <path fill="none" d="M17.5,18.5 L 30 18.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-94">
+  <path fill="none" d="M17.5,18.5 L 30 10.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-95">
+  <path fill="none" d="M17.5,18.5 L 30 2.5"/>
+</g>
+<g fill="#000000" id="img-ab9d560c-96">
+  <use xlink:href="#img-ab9d560c-97" x="17.5" y="18.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-98">
+  <path fill="none" d="M17.5,10.5 L 30 42.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-99">
+  <path fill="none" d="M17.5,10.5 L 30 34.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-100">
+  <path fill="none" d="M17.5,10.5 L 30 26.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-101">
+  <path fill="none" d="M17.5,10.5 L 30 18.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-102">
+  <path fill="none" d="M17.5,10.5 L 30 10.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-103">
+  <path fill="none" d="M17.5,10.5 L 30 2.5"/>
+</g>
+<g fill="#000000" id="img-ab9d560c-104">
+  <use xlink:href="#img-ab9d560c-105" x="17.5" y="10.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-106">
+  <path fill="none" d="M17.5,2.5 L 30 42.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-107">
+  <path fill="none" d="M17.5,2.5 L 30 34.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-108">
+  <path fill="none" d="M17.5,2.5 L 30 26.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-109">
+  <path fill="none" d="M17.5,2.5 L 30 18.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-110">
+  <path fill="none" d="M17.5,2.5 L 30 10.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-111">
+  <path fill="none" d="M17.5,2.5 L 30 2.5"/>
+</g>
+<g fill="#000000" id="img-ab9d560c-112">
+  <use xlink:href="#img-ab9d560c-113" x="17.5" y="2.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-114">
+  <path fill="none" d="M2.5,18.5 L 15 34.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-115">
+  <path fill="none" d="M2.5,18.5 L 15 26.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-116">
+  <path fill="none" d="M2.5,18.5 L 15 18.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-117">
+  <path fill="none" d="M2.5,18.5 L 15 10.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-118">
+  <path fill="none" d="M2.5,18.5 L 15 2.5"/>
+</g>
+<g fill="#0000FF" id="img-ab9d560c-119">
+  <use xlink:href="#img-ab9d560c-120" x="2.5" y="18.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-121">
+  <path fill="none" d="M2.5,10.5 L 15 34.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-122">
+  <path fill="none" d="M2.5,10.5 L 15 26.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-123">
+  <path fill="none" d="M2.5,10.5 L 15 18.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-124">
+  <path fill="none" d="M2.5,10.5 L 15 10.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-125">
+  <path fill="none" d="M2.5,10.5 L 15 2.5"/>
+</g>
+<g fill="#0000FF" id="img-ab9d560c-126">
+  <use xlink:href="#img-ab9d560c-127" x="2.5" y="10.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-128">
+  <path fill="none" d="M2.5,2.5 L 15 34.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-129">
+  <path fill="none" d="M2.5,2.5 L 15 26.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-130">
+  <path fill="none" d="M2.5,2.5 L 15 18.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-131">
+  <path fill="none" d="M2.5,2.5 L 15 10.5"/>
+</g>
+<g stroke="#000000" stroke-width="0.3" id="img-ab9d560c-132">
+  <path fill="none" d="M2.5,2.5 L 15 2.5"/>
+</g>
+<g fill="#0000FF" id="img-ab9d560c-133">
+  <use xlink:href="#img-ab9d560c-134" x="2.5" y="2.5"/>
+</g>
+<defs>
+  <g id="img-ab9d560c-2">
+    <circle cx="0" cy="0" r="2.5"/>
+  </g>
+  <g id="img-ab9d560c-4">
+    <circle cx="0" cy="0" r="2.5"/>
+  </g>
+  <g id="img-ab9d560c-6">
+    <circle cx="0" cy="0" r="2.5"/>
+  </g>
+  <g id="img-ab9d560c-11">
+    <circle cx="0" cy="0" r="2.5"/>
+  </g>
+  <g id="img-ab9d560c-16">
+    <circle cx="0" cy="0" r="2.5"/>
+  </g>
+  <g id="img-ab9d560c-21">
+    <circle cx="0" cy="0" r="2.5"/>
+  </g>
+  <g id="img-ab9d560c-26">
+    <circle cx="0" cy="0" r="2.5"/>
+  </g>
+  <g id="img-ab9d560c-31">
+    <circle cx="0" cy="0" r="2.5"/>
+  </g>
+  <g id="img-ab9d560c-38">
+    <circle cx="0" cy="0" r="2.5"/>
+  </g>
+  <g id="img-ab9d560c-45">
+    <circle cx="0" cy="0" r="2.5"/>
+  </g>
+  <g id="img-ab9d560c-52">
+    <circle cx="0" cy="0" r="2.5"/>
+  </g>
+  <g id="img-ab9d560c-59">
+    <circle cx="0" cy="0" r="2.5"/>
+  </g>
+  <g id="img-ab9d560c-66">
+    <circle cx="0" cy="0" r="2.5"/>
+  </g>
+  <g id="img-ab9d560c-73">
+    <circle cx="0" cy="0" r="2.5"/>
+  </g>
+  <g id="img-ab9d560c-81">
+    <circle cx="0" cy="0" r="2.5"/>
+  </g>
+  <g id="img-ab9d560c-89">
+    <circle cx="0" cy="0" r="2.5"/>
+  </g>
+  <g id="img-ab9d560c-97">
+    <circle cx="0" cy="0" r="2.5"/>
+  </g>
+  <g id="img-ab9d560c-105">
+    <circle cx="0" cy="0" r="2.5"/>
+  </g>
+  <g id="img-ab9d560c-113">
+    <circle cx="0" cy="0" r="2.5"/>
+  </g>
+  <g id="img-ab9d560c-120">
+    <circle cx="0" cy="0" r="2.5"/>
+  </g>
+  <g id="img-ab9d560c-127">
+    <circle cx="0" cy="0" r="2.5"/>
+  </g>
+  <g id="img-ab9d560c-134">
+    <circle cx="0" cy="0" r="2.5"/>
+  </g>
+</defs>
+</svg>
